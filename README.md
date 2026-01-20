@@ -15,7 +15,10 @@ This project showcases a clean design and interactive features like an image sli
 - **Add contact form**: with validation.
 
 ---
+## Clone Repo:
 
+
+---
 ## 🚀 Live Demo
 
 ---
