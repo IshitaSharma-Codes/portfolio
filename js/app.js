@@ -262,5 +262,5 @@ setInterval(()=>{
 
     // Run immediately and then every second
     updateCountdown();
-    const timer = setInterval(updateCountdown, 1000);
+    const timer = setInterval(updateCountdown, 1000); 
 
