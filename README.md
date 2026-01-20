@@ -16,7 +16,21 @@ This project showcases a clean design and interactive features like an image sli
 
 ---
 
+## 🚀 Live Demo
+
+---
+
 ## 📂 Project Structure
+
+ -index.html         # Home Page
+ - css
+    -  style.css      # Custom styles
+    -  media.css 
+ - js 
+    -  app.js       # JavaScript functionality
+ 
+ - images           # Logos, banners, product images 
+ - README.md         # Project documentation
 
 
 
@@ -25,10 +39,19 @@ This project showcases a clean design and interactive features like an image sli
 - CSS3 – Responsive layout, animations, transitions
 - JavaScript (ES6) – DOM manipulation, slider, modal, FAQ accordion
 
-  ---
+---
 
   ## 📖 How It Works
 - Image Slider: Uses JavaScript to cycle through images with next/prev buttons.
 - Modal: Triggered by clicking on images or buttons, displaying content in a popup.
 - FAQ Accordion: Expands/collapses answers when questions are clicked.
+
+
+  ---
+  ## 📌 Future Improvement
+ - Implement dark/light mode toggle
+- Enhance accessibility (ARIA roles, keyboard navigation)
+
+  
+
 
