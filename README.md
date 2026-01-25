@@ -16,7 +16,7 @@ This project showcases a clean design and interactive features like an image sli
 
 ---
 ## Clone Repo:
-
+https://github.com/IshitaSharma-Codes/portfolio
 
 ---
 ## 🚀 Live Link
