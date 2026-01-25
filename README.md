@@ -8,7 +8,7 @@ This project showcases a clean design and interactive features like an image sli
 ## 🚀 Features
 - **Responsive Design**: Works seamlessly across desktop, tablet, and mobile devices.
 - **Image Slider**: Smooth navigation through portfolio/gallery images.
-- **Modal Popups**: Enlarged views for project details or images.
+- **Modal Popups**: Enlarged views for Hire Me.
 - **FAQ Section**: Interactive accordion for common questions.
 - **Clean UI**: Minimalist layout with focus on content and usability.
 - **No Frameworks**: Pure HTML, CSS, and JavaScript implementation.
@@ -19,8 +19,8 @@ This project showcases a clean design and interactive features like an image sli
 
 
 ---
-## 🚀 Live Demo
-
+## 🚀 Live Link
+https://portfolio-zeta-topaz-10.vercel.app/
 ---
 
 ## 📂 Project Structure
@@ -52,7 +52,7 @@ This project showcases a clean design and interactive features like an image sli
 
   ---
   ## 📌 Future Improvement
- - Implement dark/light mode toggle
+- Implement dark/light mode toggle
 - Enhance accessibility (ARIA roles, keyboard navigation)
 
   
